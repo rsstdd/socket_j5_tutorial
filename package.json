@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "^4.14.0",
     "johnny-five": "^0.5.97",
-    "socket.io": "^0.9.17"
+    "socket.io": "^4.8.4"
   },
   "devDependencies": {},
   "scripts": {
